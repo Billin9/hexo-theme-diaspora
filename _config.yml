@@ -14,51 +14,26 @@ autoplay: false
 
 # 默认音乐
 mp3:
-  -
-    http://dl.stream.qqmusic.qq.com/M500002E3MtF0IAMMY.mp3?vkey=5B1AC0F9EBC9A36EDB90CDA13414115959C1694FCAEBBA6395FF1EF1F04BDDB027BAC9243ECF403A8C90009A22A40CEF38C2480FC13D8EFA&guid=5150825362&fromtag=1
-    # 光年之外
-  -
-    http://dl.stream.qqmusic.qq.com/M500003fENXC2pQx7U.mp3?vkey=474D30907ECA72AA0002FBACF5DEBB2F689D27E4020AD791C9286A4E31D5CBB123D301A03D41FCD4457E3E488BF85BDF6C50923921103E50&guid=5150825362&fromtag=1
-    # 空心
-  -
-    http://dl.stream.qqmusic.qq.com/M5000045KLbl18QqyB.mp3?vkey=E8B2ADA94109A6088329C2C1466377B8FD3977B944E6B9258A6BE38B6893332ED02D5E1A4615A17541279C28EE039454831C4EE0831E5AD7&guid=5150825362&fromtag=1
-    # 过客
-  -
-    http://dl.stream.qqmusic.qq.com/M500001hzFdp4E0vZz.mp3?vkey=1DDC155D4ED5D266E95438AA0FEC9454D16124B7D48CF69D61D31B2D5A2185CB6C248A7D48524A07622DACB13065A517DA483413D145E6F7&guid=5150825362&fromtag=1
-    # 长腿叔叔
-  -
-    http://dl.stream.qqmusic.qq.com/M5000024iyId0CfeFw.mp3?vkey=8ACF9A14215C0D148C75BF9C9964E86AB4EC79CA355053928DE8719E20FCEE39E9E2B2700C945538503E50A0F9BB4BC1CF8E2E48567524E0&guid=5150825362&fromtag=1
-    # In the eyes
-  -
-    http://dl.stream.qqmusic.qq.com/M500001lVkTQ3D3p0v.mp3?vkey=9ACCC4D7FC7594B2B6382E18DED74B60FEA53F78048968B16A97AE81F2BCA76AB35FB2F5F1523282F2D8D36DCA6F4423AB055518B09D2635&guid=5150825362&fromtag=1
-    # 走马
-  -
-    http://dl.stream.qqmusic.qq.com/M500003TJhNm0wDZtR.mp3?vkey=43B037CDB5CA9CF5D7BC44BCB58F6631C0C372571C6EF6C9818368D910539E0E8612B899867D9559B4356314AD1102310BFB789F144735F8&guid=5150825362&fromtag=1
-    # 风筝误
-  -
-    http://dl.stream.qqmusic.qq.com/M500000WdUWo1p4MAt.mp3?vkey=A6D3008588B533401B287F5B16CBA246700E673583922ECADBDCDCA1FD46182E9F5EAFAAB51D84C8EE578FA57BB56FE8D701E9C014F9B635&guid=5150825362&fromtag=1
-    # Psycho (Pt.2)
-  -
-    http://dl.stream.qqmusic.qq.com/M500001yYM0I30CzdP.mp3?vkey=A725C2A3B3A9999E1F811533FEDD2001A3429160440483F9B23FFF9B64E9BB80A08ABC2DADEB0A054C4A3C73FECB48549C9E619CE2AF6600&guid=5150825362&fromtag=1
-    # 云烟成雨
-  -
-    http://dl.stream.qqmusic.qq.com/M500004f4xGC0wPZ6r.mp3?vkey=5ABA14378D31CF221613C3445794FE93073C37929A4A421DB152C53AD0C30C2EDC5D0ACFE20952D0810DCAA2D71C49FA9A24C1E0B89E0C0F&guid=5150825362&fromtag=1
-    # 锈琴
-  -
-    http://dl.stream.qqmusic.qq.com/M5000049IjmN1QqEWr.mp3?vkey=4736683D75F15CF4F44532B9A5B6D4BD3CC9BD452BCCE8FE360C3C3645F1A9BC254056E6C936509D6BE01B0C9AE3F19755A76EE479201DCD&guid=5150825362&fromtag=1
-    # Wonderful U (Demo)
-  -
-    http://dl.stream.qqmusic.qq.com/M500004RNEc431vz2G.mp3?vkey=36F2F1B47A8FA249C11ED25106C3FE4FC7438F0A1BF0CF2AA5B70225591E4622F0AC6B6FC00FAD095FB3CF7E6C7F986A8DB9236D0AE77902&guid=5150825362&fromtag=1
-    # 化身孤岛的鲸 - 兔裹煎蛋卷
-  - http://other.web.nf01.sycdn.kuwo.cn/resource/n2/40/64/2610304279.mp3 # 烟火里的尘埃 - 郁欢
-  - http://fs.open.kugou.com/cb5336cd4e6e4b299394c0c5ff593431/5cac2d26/G106/M04/06/03/SpQEAFnDAgSADtXIAEQg1gz-Oho286.mp3
-  # 那个人
+  - http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n1/73/40/4073043717.mp3 # 光年之外
+  - http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n2/83/80/2001880351.mp3 # 空心-冯提莫
+  - http://www.170mv.com/kw/other.web.nc01.sycdn.kuwo.cn/resource/n2/11/71/1946862123.mp3 # 过客-阿涵
+  - http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n3/4/62/1367045916.mp3 # 长腿叔叔
+  - http://www.170mv.com/kw/other.web.nf01.sycdn.kuwo.cn/resource/n2/80/22/3777994537.mp3 # In the eyes
+  - https://link.hhtjim.com/kg/4B5ABE45B12731446EA10C83792C118A.mp3 # 走马-莲莉rei
+  - http://www.170mv.com/kw/other.web.rg01.sycdn.kuwo.cn/resource/n2/33/99/2947872486.mp3 # 风筝误
+  - http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n3/87/27/83621971.mp3 # Psycho (Pt.2)
+  - https://link.hhtjim.com/163/513360721.mp3 # 云烟成雨
+  - http://www.170mv.com/kw/other.web.nf01.sycdn.kuwo.cn/resource/n1/0/0/1867614926.mp3 # 锈琴
+  - http://www.170mv.com/kw/other.web.rt01.sycdn.kuwo.cn/resource/n2/46/77/2638665343.mp3 # Wonderful U (Demo)
+  - https://link.hhtjim.com/kg/08422715EC7884A539D995F41409E498.mp3 # 化身孤岛的鲸-兔裹煎蛋卷
+  - https://link.hhtjim.com/kw/40891539.mp3 # 烟火里的尘埃-郁欢
+  - http://www.170mv.com/kw/other.web.nf01.sycdn.kuwo.cn/resource/n1/24/0/3021515241.mp3 # 那个人
 
 # 首页封面图, 为空时取文章的cover作为封面
-welcome_cover: # /img/welcome-cover.jpg
+welcome_cover: 'http://img.dosec.cn/3840x2160_alita-battle-angel-movie-uhdpaper.com-4K-20.jpg' # /img/welcome-cover.jpg
 
 # 默认文章封面图
-cover: /img/cover.jpg
+cover: 'http://img.dosec.cn/1680x1050_Alita-Battle-Angel-2019.jpg' # /img/cover.jpg
 
 # 是否关闭默认滚动条
 scrollbar: true
@@ -68,15 +43,15 @@ gitalk:
     # 是否自动展开评论框
     autoExpand: false
     # 应用编号
-    clientID: ''
+    clientID: 'ebe7b513e0d4be54826d'
     # 应用秘钥
-    clientSecret: ''
+    clientSecret: 'b6b49c54ad8111f3394f929526324f976430549e'
     # issue仓库名
-    repo: ''
+    repo: 'gitalk'
     # Github名
-    owner: ''
+    owner: 'Billin9'
     # Github名
-    admin: ['']
+    admin: ['Billin9']
     # Ensure uniqueness and length less than 50
     id: location.pathname
     # Facebook-like distraction free mode
